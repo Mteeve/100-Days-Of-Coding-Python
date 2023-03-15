@@ -1,80 +1,12 @@
-#Variable with User input
-#underscores_between_words
-#camelCaseToMakeItEasierToRead
-#Adding line using epty print()
+print("""
 
-#my_name = input("What's your name?: ")
-#my_age = input ("How old are you?: ")
-#print("Geez, thats really old!")
-#replit = input("How is replit?: ")
-#print("Ofcouse you do! :-) ")
-#print()
-#print("So, you are")
-#print(my_name)
-#print("and you are the ripe old age of")
-#print(my_age)
-#print("and clearly think replit is")
-#print(replit)
+Mark
+14th March 2023
+I am signing up for Replit's 100 days of Python challange!
+I will make sure to spend some time every day coding along, for a minimum of 10mins a day.
+I'll be using Relplit, an amaizing online IDE so I can do it this from my phone wherever i happen to be. No excuses for not coding from the middle of the field!
+I am feeling ;-)
+You can follow my progress at replit.com/@Mteeve
 
-#fixingAcode
-#print("Definitely not a Phishing Scam")
-#print()
-#myName = input("Your Name: ")
-#print("Thanks for logging in")
-#print(myName)
-#cardNumber = input("What is your credit card number? ")
-#print("Thanks, I definitely wont put")
-#print(cardNumber)
-#print("into Amazon and order anything weird")
-#print()
-#print("Promise")
-#maidenName = input("What is your Mother's maiden name? ")
-print()
-#print("That's cool, I just wanted to know that")
-#print(maidenName)
-#print(
-#    "was your Mum's maiden name. Not because the bank requested it or anything, honest."
-#)
-#reply = input("Okay? ")
-#print()
-#print("Good day")
-#print(myName)
-#print("and say hi to")
-#print(maidenName)
 
-#Day 2 Challenge
-
-userName = input("What is your name?: ")
-print("That's a good name")
-favoriteFood = input("What is your favorite food?: ")
-print()
-print("OMG, what a coincidence! We share the same favorite meal")
-print()
-print(favoriteFood)
-print("is my favorite food too not fogetting a smoothie desert afterwards")
-favorite_music = input(
-    "Am now earger to know, whats your favorite music genre?: ")
-print()
-print(favorite_music)
-genereReply = print("Hmmn, Amaizing! Sadly not my type.")
-
-genereReply2 = input("But  am sure it soothens you, right?: ")
-print()
-
-domicile = input("Currently, where do you live?: ")
-print("Great. Have been there, it has a good neighborhood")
-print()
-print("It's been great getting to know you")
-print(userName)
-print()
-
-print("So in summary, youare: ")
-print(userName)
-print("A great fan of")
-print(genereReply)
-print("living in")
-print(domicile)
-print("I noted we share a favorite food which is")
-print(favoriteFood)
-print()
-print("You are a person of class, Kudos!")
+""")
